@@ -25,7 +25,7 @@ focus:      Scalable backends · DevOps automation · Applied AI
 available:  true
 ```
 
-- 🔭 Building robust **REST APIs** and **fullstack web apps** with Django
+- 🔭 Building robust **REST APIs** and **fullstack web apps** with Django or FastApi
 - ⚙️ Managing production infrastructure: **Docker · Nginx · Gunicorn · Linux**
 - 🔄 Automating deployments with **CI/CD pipelines** and **GitHub Actions**
 - 🤖 Passionate about **Computer Vision** and **Applied AI**
