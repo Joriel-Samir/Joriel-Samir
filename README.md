@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Joriel%20Barros&fontSize=55&fontColor=fff&fontAlignY=38&desc=Fullstack%20Developer%20%26%20DevOps%20Engineer&descAlignY=58&descColor=a0a0ff" />
-</div>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Python+%26+Django;DevOps+%7C+Docker+%7C+Nginx+%7C+CI%2FCD;REST+APIs+%7C+PostgreSQL+%7C+Linux;Computer+Vision+%7C+OpenCV+%7C+ArcFace;Remote+%E2%80%94+Colombia+%F0%9F%87%A8%F0%9F%87%B4+%26+USA+%F0%9F%87%BA%F0%9F%87%B8" />
 </h3>
